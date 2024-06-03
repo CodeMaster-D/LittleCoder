@@ -1,17 +1,22 @@
-<h1 align="center">Hai 👋, saya Mister D</h1>
-<img align="center" alt="web-developer"  width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw0Ac6RCmSeTQHnmH5COZme8&ust=1717467803593000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiN46GwvoYDFQAAAAAdAAAAABAE>
-<h3 align="justify">Hai! Saya Djob, Seorang Web Developer muda
-Membuat web yang indah dan fungsional adalah hobi saya.
+## Hai , saya Djob!
+
+[Image of web developer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw0Ac6RCmSeTQHnmH5COZme8&ust=1717467803593000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiN46GwvoYDFQAAAAAdAAAAABAE)
+
+### Hai! Saya Djob, Seorang Web Developer muda
+
+Membuat web yang indah dan fungsional adalah hobi saya. 
 
 Saya memiliki pengalaman dalam membangun berbagai jenis situs web, dari situs web portofolio sederhana hingga toko online yang kompleks. Saya terampil dalam menggunakan berbagai bahasa pemrograman dan teknologi web, termasuk:
 
-HTML, CSS, dan JavaScript
-Framework front-end seperti React dan Vue.js
-Bahasa pemrograman back-end seperti Python dan PHP
-Sistem manajemen konten (CMS) seperti WordPress dan Drupal
-Saya selalu berusaha untuk mengikuti tren terbaru dalam pengembangan web dan menerapkan pengetahuan saya untuk menciptakan pengalaman pengguna yang terbaik. Saya juga senang bekerja sama dengan klien untuk memahami kebutuhan mereka dan membangun situs web yang sesuai dengan tujuan mereka.</h3>
+* HTML, CSS, dan JavaScript
+* Framework front-end seperti React dan Vue.js
+* Bahasa pemrograman back-end seperti Python dan PHP
+* Sistem manajemen konten (CMS) seperti WordPress dan Drupal
 
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=djob-misael-m&label=Profile%20views&color=0e75b6&style=flat" alt="djob-misael-m" /> </p>
+Saya selalu berusaha untuk mengikuti tren terbaru dalam pengembangan web dan menerapkan pengetahuan saya untuk menciptakan pengalaman pengguna yang terbaik. Saya juga senang bekerja sama dengan klien untuk memahami kebutuhan mereka dan membangun situs web yang sesuai dengan tujuan mereka.
+
+<img src="https://komarev.com/ghpvc/?username=djob-misael-m&label=Profile%20views&color=0e75b6&style=flat" alt="djob-misael-m" />
+
 
 - 🌱 Saat ini saya sedang belajar **php dan sql**
 
