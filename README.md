@@ -25,9 +25,9 @@ Saya selalu berusaha untuk mengikuti tren terbaru dalam pengembangan web dan men
 
 - ⚡ Fakta menarik **saya 12 tahun**
 
-<h3 align="left">Hubungkan dengan saya:</h3 >
+<h3 align="left">Hubungkan dengan saya:</h3>
 <p align="kiri">
-<a href="https://instagram.com/skyy_storee08" target="blank"><img align="center" src="https://raw.githubusercontent.com/ rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skyy_storee08" height="30" width="40" /></a>
+<a href="https://instagram.com/skyy_storee08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skyy_storee08" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Bahasa dan Alat:</h3>
