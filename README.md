@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on..... 
 - 📫 How to reach https://www.instagram.com/skyy_store08/
 - 😄 Pronouns: dude
-- ⚡ Fun fact: i'm 12 yo 
+- ⚡ Fun fact: i'm 12 yo
+- ![Uploading image.png…]()
+
 
 <!---
 Djob-misael-M/Djob-misael-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
