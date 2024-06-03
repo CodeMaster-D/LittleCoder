@@ -1,4 +1,4 @@
-<h1 align="center">Hai 👋, saya seorang frontend</h1>
+<h1 align="center">Hai 👋, Road to fullstack</h1>
 <img align="center" alt="web-developer" width="100px" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <h3 align="justify">Hai! Saya Djob, Seorang Web Developer muda
 Membuat web yang indah dan fungsional adalah hobi saya.
@@ -24,7 +24,7 @@ Saya memiliki pengalaman dalam membangun berbagai jenis situs web, dari situs we
 
 - 📫 Cara menghubungi saya **https://www.instagram.com/skyy_store08/**
 
-- ⚡ Fakta menarik **saya 12 tahun**
+- ⚡ Fakta menarik **saya berumur 12 tahun**
 
 <h3 align="left">Hubungkan dengan saya:</h3>
 <p align="kiri">
