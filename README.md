@@ -1,4 +1,4 @@
-<h1 align="center">Hai 👋, Road to fullstack</h1>
+<h1 align="center">frontend developer</h1>
 <img align="center" alt="web-developer" width="100px" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <h3 align="justify">Hai! Saya Djob, Seorang Web Developer muda
 Membuat web yang indah dan fungsional adalah hobi saya.
