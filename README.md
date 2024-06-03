@@ -1,5 +1,5 @@
 <h1 align="center">Hai 👋, saya Mister D</h1>
-<img align="center" alt="web-developer" width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw0Ac6RCmSeTQHnmH5COZme8&ust=1717467803593000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiN46GwvoYDFQAAAAAdAAAAABAE">
+<img align="center" alt="web-developer" width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <h3 align="justify">Hai! Saya Djob, Seorang Web Developer muda
 Membuat web yang indah dan fungsional adalah hobi saya.
 
