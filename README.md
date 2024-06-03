@@ -1,6 +1,6 @@
 <h1 align="center">Hai 👋, saya Mister D</h1>
 <img align="center" alt="web-developer" width="100px" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
-<h3 align="justify">Hai! Saya Djob, Seorang Web Developer muda
+<h3 align="center">Hai! Saya Djob, Seorang Web Developer muda
 Membuat web yang indah dan fungsional adalah hobi saya.
 
 Saya memiliki pengalaman dalam membangun berbagai jenis situs web, dari situs web portofolio sederhana hingga toko online yang kompleks. Saya terampil dalam menggunakan berbagai bahasa pemrograman dan teknologi web, termasuk:
@@ -58,9 +58,5 @@ Saya selalu berusaha untuk mengikuti tren terbaru dalam pengembangan web dan men
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python -asli.svg" alt="ular piton" width="40" height="40"/> 
-  </a>
   
-</p>
-
 
