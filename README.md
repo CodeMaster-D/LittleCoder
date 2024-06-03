@@ -1,18 +1,17 @@
 <h1 align="center">Hai 👋, saya Mister D</h1>
 <img align="center" alt="web-developer" width="100px" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
-<h3 align="center">Hai! Saya Djob, Seorang Web Developer muda
+<h3 align="justify">Hai! Saya Djob, Seorang Web Developer muda
 Membuat web yang indah dan fungsional adalah hobi saya.
 
 Saya memiliki pengalaman dalam membangun berbagai jenis situs web, dari situs web portofolio sederhana hingga toko online yang kompleks. Saya terampil dalam menggunakan berbagai bahasa pemrograman dan teknologi web, termasuk:
 
-HTML, CSS, dan JavaScript
-Framework front-end seperti React dan Vue.js
-Bahasa pemrograman back-end seperti Python dan PHP
-Sistem manajemen konten (CMS) seperti WordPress dan Drupal
-Saya selalu berusaha untuk mengikuti tren terbaru dalam pengembangan web dan menerapkan pengetahuan saya untuk menciptakan pengalaman pengguna yang terbaik. Saya juga senang bekerja sama dengan klien untuk memahami kebutuhan mereka dan membangun situs web yang sesuai dengan tujuan mereka.</h3>
+- HTML, CSS, dan JavaScript
+- Framework front-end seperti React dan Vue.js
+- Bahasa pemrograman back-end seperti Python dan PHP
+- Sistem manajemen konten (CMS) seperti WordPress dan Drupal
+- Saya selalu berusaha untuk mengikuti tren terbaru dalam pengembangan web dan menerapkan pengetahuan saya untuk menciptakan pengalaman pengguna yang terbaik. Saya juga senang bekerja sama dengan - - klien untuk memahami kebutuhan mereka dan membangun situs web yang sesuai dengan tujuan mereka.</h3>
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=djob-misael-m&label=Profile%20views&color=0e75b6&style=flat" alt="djob-misael-m" /> </p>
-
 
 
 - 🌱 Saat ini saya sedang belajar **php dan sql**
