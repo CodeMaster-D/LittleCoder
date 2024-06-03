@@ -14,7 +14,7 @@ Saya memiliki pengalaman dalam membangun berbagai jenis situs web, dari situs we
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=djob-misael-m&label=Profile%20views&color=0e75b6&style=flat" alt="djob-misael-m" /> </p>
 
 
-- 🌱 Saat ini saya sedang belajar **php dan sql**
+- 🌱 Saat ini saya sedang belajar **php**
 
 - 👯 Saya ingin berkolaborasi dalam **x**
 
