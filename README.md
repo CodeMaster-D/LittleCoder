@@ -1,6 +1,6 @@
 ## Hai , saya Djob!
 
-[Image of web developer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw0Ac6RCmSeTQHnmH5COZme8&ust=1717467803593000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiN46GwvoYDFQAAAAAdAAAAABAE)
+[Image of web developer](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)
 
 ### Hai! Saya Djob, Seorang Web Developer muda
 
@@ -15,7 +15,7 @@ Saya memiliki pengalaman dalam membangun berbagai jenis situs web, dari situs we
 
 Saya selalu berusaha untuk mengikuti tren terbaru dalam pengembangan web dan menerapkan pengetahuan saya untuk menciptakan pengalaman pengguna yang terbaik. Saya juga senang bekerja sama dengan klien untuk memahami kebutuhan mereka dan membangun situs web yang sesuai dengan tujuan mereka.
 
-<img src="https://komarev.com/ghpvc/?username=djob-misael-m&label=Profile%20views&color=0e75b6&style=flat" alt="djob-misael-m" />
+
 
 
 - 🌱 Saat ini saya sedang belajar **php dan sql**
