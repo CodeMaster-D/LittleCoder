@@ -22,13 +22,13 @@ Saya memiliki pengalaman dalam membangun berbagai jenis situs web, dari situs we
 
 - 💬 Tanya saya tentang **semua tentang web**
 
-- 📫 Cara menghubungi saya **https://www.instagram.com/front.end/**
+- 📫 Cara menghubungi saya **https://www.instagram.com/frontend.d/**
 
 - ⚡ Fakta menarik **saya berumur 10 tahun**
 
 <h3 align="left">Hubungkan dengan saya:</h3>
 <p align="kiri">
-<a href="https://instagram.com/front.end" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skyy_storee08" height="30" width="40"/></a>
+<a href="https://instagram.com/frontend.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skyy_storee08" height="30" width="40"/></a>
 </p>
 
 <h3>Bahasa dan Alat yang saya gunakan:</h3>
